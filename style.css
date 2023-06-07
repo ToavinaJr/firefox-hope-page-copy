@@ -14,15 +14,13 @@
 }
 
 
-/********  Flex row   ****************/
+
 .flex-row{
     display: flex;
     flex-direction: row;
 }
 
 
-
-/* ********   Flex class column ********** */
 .flex-column{
     display: flex;
     flex-direction: column;
@@ -63,13 +61,13 @@
 }
 
 
-/* *********** ronded class    *********** */
+
 .rounded{
     border-radius: 5px;
 }
 
 
-/* **********  Circle class    ********** */
+
 .circle{
     border-radius: 50%;
 }
